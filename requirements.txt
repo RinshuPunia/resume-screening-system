@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+pillow
+pytesseract
+nltk
+scikit-learn
+matplotlib
+pandas
